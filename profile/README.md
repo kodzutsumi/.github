@@ -1,17 +1,10 @@
-<!-- TODO(@ebntly): Update with kz.io banner
 <p align="center">
   <img
     alt="intv8 logo"
     height="70"
-    src="https://raw.githubusercontent.com/kz-io/.github/main/profile/img/clr/banner.svg"
+    src="https://raw.githubusercontent.com/kz-io/.github/main/profile/img/banner/fc.svg"
   />
 </p>
--->
-
-<!-- Remote when banner is in place -->
-<div align="center">
-  <h1>kz.io</h1>
-</div>
 
 <p align="center">
   <a href="https://github.com/intv8/.github/blob/main/.github/CODE_OF_CONDUCT.md">
