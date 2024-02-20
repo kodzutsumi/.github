@@ -1,13 +1,14 @@
-<!--
+<!-- TODO(@ebntly): Update with kz.io banner
 <p align="center">
   <img
     alt="intv8 logo"
     height="70"
-    src="https://raw.githubusercontent.com/intv8/.github/main/profile/img/clr/banner.svg"
+    src="https://raw.githubusercontent.com/kz-io/.github/main/profile/img/clr/banner.svg"
   />
 </p>
 -->
 
+<!-- Remote when banner is in place -->
 <div align="center">
   <h1>kz.io</h1>
 </div>
@@ -34,7 +35,7 @@ Contributions are welcome! Review a repository's README.md to get started.
       src="https://img.shields.io/badge/built%20with%20%E2%9D%A4%20-i11n-585CA4?style=for-the-badge"
     />
   </a>
-  <a href="https://github.com/i11n">
+  <a href="https://github.com/kz-io">
     <img
       alt="Build everything" 
       src="https://img.shields.io/badge/BUILD-EVERYTHING-DE492E?style=for-the-badge"
@@ -43,10 +44,9 @@ Contributions are welcome! Review a repository's README.md to get started.
 </p>
 
 ## Packages
-| Package | Links | Description |
-|---------|-------|-------------|
+| Links | Package | Description |
+|-------|---------|-------------|
 
-<!--
 <p align="center">
   <img
     alt="intv8 logo"
@@ -54,6 +54,5 @@ Contributions are welcome! Review a repository's README.md to get started.
     src="https://raw.githubusercontent.com/i11n/.github/main/profile/img/frm/logo-open-source.svg"
   />
 </p>
--->
 
 <!---- Markdown Links -->
