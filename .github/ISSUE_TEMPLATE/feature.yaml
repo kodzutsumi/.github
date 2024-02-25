@@ -1,0 +1,38 @@
+name: Feature request
+description: Request a new feature
+title: "✨ Feature request: "
+labels: ["type: feature"]
+body:
+  - type: markdown
+    attributes:
+      value: "
+        <img src='https://raw.githubusercontent.com/kz-io/.github/main/profile/img/avatar/lg.svg' align='left' width='40' height ='40' alt='kz.io' />
+        Thank you for requesting a new feature!
+
+        All efforts to improve kz.io are greatly appreciated.
+
+        <br clear='left' />"
+  - type: textarea
+    attributes:
+      label: Describe the feature
+      description: Describe the new feature.
+      placeholder: >
+        Describe the new feature and how it could be implemented.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Use case
+      description: Provide a use case of the requested feature.
+      placeholder: >
+        Explain how the new feature will benefit you in what you are trying to achieve, or what
+        benefit it would provide others.
+  - type: markdown
+    attributes:
+      value: <br />
+  - type: markdown
+    attributes:
+      value: "By submitting this issue, I understand that I am contributing to the project and agree to follow this project's [Code of Conduct](https://github.com/kz-io/.github/blob/main/.github/CODE_OF_CONDUCT.md)."
+  - type: markdown
+    attributes:
+      value: If you have built an implementation of this feature yourself, you can submit a pull request immediately after you submit this feature request.
