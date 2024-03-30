@@ -1,8 +1,8 @@
 <p align="center">
   <img
-    alt="intv8 logo"
+    alt="kz-io"
     height="70"
-    src="https://raw.githubusercontent.com/kz-io/.github/main/profile/img/banner/fc.svg"
+    src="https://raw.githubusercontent.com/kz-io/.github/main/profile/img/fc/text.svg"
   />
 </p>
 
@@ -42,9 +42,9 @@ Contributions are welcome! Review a repository's README.md to get started.
 
 <p align="center">
   <img
-    alt="intv8 logo"
+    alt="kz-io"
     height="64"
-    src="https://raw.githubusercontent.com/i11n/.github/main/profile/img/frm/logo-open-source.svg"
+    src="https://raw.githubusercontent.com/i11n/.github/main/profile/img/fc/open.svg"
   />
 </p>
 
