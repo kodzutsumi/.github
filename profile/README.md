@@ -1,10 +1,19 @@
 <p align="center">
-  <img
-    alt="kz-io"
-    height="70"
-    src="https://raw.githubusercontent.com/kz-io/.github/main/profile/img/fc/text.svg"
-  />
+<img alt="kz logo" height="48" src="https://raw.githubusercontent.com/i11n/.github/main/svg/kz/color/kz.svg" />
 </p>
+
+<p align="center">
+kz is a collection of easy-to-use utility and feature libraries for creating anything you want with the <a href="https://deno.com">Deno</a> runtime.
+</p>
+
+<p align="center">
+<a href="https://jsr.io/@kz/common-types">
+  <img src="https://jsr.io/badges/@kz/common-types" alt="JSR" />
+</a>
+</p>
+
+## Contributing
+Contributions are welcome! Review a repository's README.md to get started.
 
 <p align="center">
   <a href="https://github.com/intv8/.github/blob/main/.github/CODE_OF_CONDUCT.md">
@@ -15,11 +24,21 @@
   </a>
 </p>
 
-## About
-...
 
-## Contributing
-Contributions are welcome! Review a repository's README.md to get started.
+## Packages
+
+| Package | Links | Version | Description |
+|---------|-------|---------|-------------|
+| `@kz/common-types` | [GitHub][0-gh] &middot; [API Docs][0-jsr] | [![](https://jsr.io/badges/@kz/common-types)][0-jsr] | A collection of the most common types used across kz packages, adapted for API consistency and case-coverage, exhaustively tested, and documented thoroughly. |
+| `@kz/common-exceptions` | [GitHub][1-gh] &middot; [API Docs][1-jsr] | [![](https://jsr.io/badges/@kz/common-exceptions)][1-jsr] |A collection of the most common exceptions used across kz packages, adapted for API consistency and case-coverage, exhaustively tested, and documented thoroughly. |
+
+<p align="center">
+<img
+  alt="kz.io logo"
+  height="64"
+  src="https://raw.githubusercontent.com/i11n/.github/main/svg/brand/color/open-stroke.svg"
+/>
+</p>
 
 <p align="center">
   <a href="https://github.com/i11n">
@@ -36,16 +55,8 @@ Contributions are welcome! Review a repository's README.md to get started.
   </a>
 </p>
 
-## Packages
-| Links | Package | Description |
-|-------|---------|-------------|
-
-<p align="center">
-  <img
-    alt="kz-io"
-    height="64"
-    src="https://raw.githubusercontent.com/i11n/.github/main/profile/img/fc/open.svg"
-  />
-</p>
-
 <!---- Markdown Links -->
+[0-gh]: https://github.com/kz-io/common-types "@kz/common-types GitHub"
+[0-jsr]: https://jsr.io/@kz/common-types "@kz/common-types JSR"
+[1-gh]: https://github.com/kz-io/common-exceptions "@kz/common-exceptions GitHub"
+[1-jsr]: https://jsr.io/@kz/common-exceptions "@kz/common-exceptions JSR"
