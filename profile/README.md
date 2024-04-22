@@ -7,7 +7,7 @@ kz is a collection of easy-to-use utility and feature libraries for creating any
 </p>
 
 <p align="center">
-<a href="https://jsr.io/@kz/common-types">
+<a href="https://jsr.io/@kz">
   <img src="https://jsr.io/badges/@kz" alt="kz on JSR" />
 </a>
 </p>
