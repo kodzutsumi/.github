@@ -43,6 +43,14 @@ A collection of the most common types used across kz packages, adapted for API c
 
 A collection of the most common exceptions used across kz packages, adapted for API consistency and case-coverage, exhaustively tested, and documented thoroughly.
 
+#### [dispose][2-gh] &nbsp;&bull;&nbsp; [API Docs][2-jsr]
+
+[![](https://jsr.io/badges/@kz/dispose)][2-jsr]
+
+A collection of types and features for using and disposing of managed resources.
+
+---
+
 <p align="center">
 <a href="https://github.com/i11n">
 <img
@@ -73,3 +81,5 @@ A collection of the most common exceptions used across kz packages, adapted for 
 [0-jsr]: https://jsr.io/@kz/common-types "@kz/common-types JSR"
 [1-gh]: https://github.com/kz-io/common-exceptions "@kz/common-exceptions GitHub"
 [1-jsr]: https://jsr.io/@kz/common-exceptions "@kz/common-exceptions JSR"
+[2-gh]: https://github.com/kz-io/dispose "@kz/dispose GitHub"
+[2-jsr]: https://jsr.io/@kz/dispose "@kz/dispose JSR"
