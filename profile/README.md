@@ -49,6 +49,18 @@ A collection of the most common exceptions used across kz packages, adapted for 
 
 A collection of types and features for using and disposing of managed resources.
 
+#### [observe][3-gh] &nbsp;&bull;&nbsp; [API Docs][3-jsr]
+
+[![](https://jsr.io/badges/@kz/observe)][3-jsr]
+
+A collection of types and features for implementing the observer pattern.
+
+#### [warn][4-gh] &nbsp;&bull;&nbsp; [API Docs][4-jsr]
+
+[![](https://jsr.io/badges/@kz/warn)][4-jsr]
+
+A collection of types and features for managing application warnings.
+
 ---
 
 <p align="center">
@@ -83,3 +95,7 @@ A collection of types and features for using and disposing of managed resources.
 [1-jsr]: https://jsr.io/@kz/common-exceptions "@kz/common-exceptions JSR"
 [2-gh]: https://github.com/kz-io/dispose "@kz/dispose GitHub"
 [2-jsr]: https://jsr.io/@kz/dispose "@kz/dispose JSR"
+[3-gh]: https://github.com/kz-io/observe "@kz/observe GitHub"
+[3-jsr]: https://jsr.io/@kz/observe "@kz/observe JSR"
+[4-gh]: https://github.com/kz-io/warn "@kz/warn GitHub"
+[4-jsr]: https://jsr.io/@kz/warn "@kz/warn JSR"
