@@ -1,7 +1,8 @@
 name: Documentation issue report
 description: Report an issue with documentation
 title: "📚 Docs issues report: "
-labels: ["type: docs"]
+labels: ["type: docs", "status: pending"]
+assignees: "ebntly"
 body:
   - type: markdown
     attributes:
