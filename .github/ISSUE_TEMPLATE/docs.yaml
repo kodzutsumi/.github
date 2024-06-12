@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: "
-        <img src='https://raw.githubusercontent.com/kz-io/.github/main/profile/img/avatar/lg.svg' align='left' width='40' height ='40' alt='kz.io' />
+        <img src='https://raw.githubusercontent.com/i11n/.github/main/svg/kz/color/kz.svg' align='left' width='40' height ='40' alt='kz.io' />
         Thank you for reporting a documentation issue!
 
         All efforts to improve kz.io are greatly appreciated.
