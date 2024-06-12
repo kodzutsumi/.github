@@ -1,7 +1,7 @@
 name: Issue report
 description: Report an issue with code
 title: "🧰 Issue report: "
-labels: ["type: issue"]
+labels: ["type: issue", "status: pending"]
 body:
   - type: markdown
     attributes:
