@@ -1,7 +1,8 @@
 name: Feature request
 description: Request a new feature
 title: "✨ Feature request: "
-labels: ["type: feature"]
+labels: ["type: feature", "status: pending"]
+assignees: "ebntly"
 body:
   - type: markdown
     attributes:
