@@ -2,6 +2,7 @@ name: Issue report
 description: Report an issue with code
 title: "🧰 Issue report: "
 labels: ["type: issue", "status: pending"]
+assignees: "ebntly"
 body:
   - type: markdown
     attributes:
