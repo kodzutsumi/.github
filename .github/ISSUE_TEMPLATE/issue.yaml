@@ -7,10 +7,10 @@ body:
   - type: markdown
     attributes:
       value: "
-        <img src='https://raw.githubusercontent.com/i11n/.github/main/svg/kz/color/kz.svg' align='left' height='40' alt='kz.io' />
+        <img src='https://raw.githubusercontent.com/i11n/.github/main/svg/kz/color/kz.svg' align='left' height='40' alt='kz logo' />
         Thank you for reporting an issue!
 
-        All efforts to improve kz.io are greatly appreciated.
+        All efforts to improve the kz library are greatly appreciated.
 
         <br clear='left' />"
   - type: markdown
@@ -18,7 +18,7 @@ body:
       value: "
         🚨 **DO NOT** report security-related issues here. For security-related
         issues, please report those privately following our
-        [security policy](https://github.com/kz.io/.github/security/policy).
+        [security policy](https://github.com/kz-io/.github/security/policy).
        "
   - type: textarea
     attributes:
@@ -67,7 +67,7 @@ body:
   - type: input
     attributes:
       label: Package version
-      description: What version of this kz.io module is being used?
+      description: What version of this kz module is being used?
   - type: markdown
     attributes:
       value: <br />

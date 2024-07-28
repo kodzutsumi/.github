@@ -1,2 +1,2 @@
 # .github
-Community health files for kz.io.
+Community health files for kz.
