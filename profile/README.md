@@ -112,7 +112,6 @@ These are the modules expected to be released. These are based off preliminary r
 ---
 
 <div align="center">
-<div><small>Built with ❤ in Greenwood</small></div>
 <img
   alt="@kz logo"
   height="48"
