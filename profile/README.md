@@ -1,39 +1,23 @@
 <div align="center">
+<img alt="kz logo" src="https://docs.i11n.io/assets/img/logos/png/64/projects/kz/logo/stroked.v1.png" />
+<h1><span style="color:#2CBDEE">kod</span><span style="color:#C53156">zutsumi</span></h1>
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg?style=flat-square)][contributing]
 [![@kz JSR homepage](https://jsr.io/badges/@kz)][jsr]
 
-<div>
-<img alt="kz logo" height="48" src="https://raw.githubusercontent.com/i11n/.github/main/svg/kz/color/kz.svg" />
-
-</div>
 <p>
-kz is an easy-to-use utility and feature library for creating anything you want with the <a href="https://deno.com">Deno</a> runtime.
+kodzutsumi is a collection of heavily tested and documented easy-to-use utility and features with consistent and predictable APIs designed to simplify the development and maintenance of complex, performant, and scalable <a href="https://deno.com">Deno</a>  applications.
 </p>
 </div>
-
-# About this project
-
-With the shiftng of the development landscape over the past 20 years, integereleven has built a lot of things in a lot of different environments. With codebases in different languages for different runtimes, it is challenging to keep everything up-to-date, compatible, and secure.
-
-When we started playing with [Deno][deno], we immediately loved it. Deno's zero-trust approach in securing the runtime and not having to worry about builds working expectedly were huge selling points for us. 
-
-So we started building things in Deno. Great! We just added something else we need to maintain!
-
-Recently, it was decided to focus our development efforts in Deno. If we can build it in Deno, we will. To do this, we decided to migrate all of our customer's applications and other developed solutions to the Deno runtime. We'd build patches for the time being, but once an application's Deno replacement is built, we will release the updated version to the customer as a free upgrade.
-
-Codebases from the past are beig reviewed, and necessary features ported over to Deno as the kz library.
-
-This library will continue to grow, so integereleven's development and release cycle is fairly active.
 
 # Contributing
 
 Contributions are welcome! Review a repository's README.md to get started.
-
+<!-- 
 # Modules
 
-These are the publicly released modules. As integereleven reviews its codebases, these modules will only provide more functionality. 
-
+These are the publicly released modules. As integereleven reviews its codebases, these modules will only provide more functionality.  -->
+<!-- 
 ## common-types [![common-types latest version](https://jsr.io/badges/@kz/common-types)][common-types-jsr]
 
 A collection of the most common types used across kz packages, adapted for API consistency and case-coverage, exhaustively tested, and documented thoroughly.
@@ -74,7 +58,7 @@ A collection of types and features for implementing the mediator pattern.
 
 A collection of utilities and warnings for tracking of application issues.
 
-[GitHub][warn-gh] &middot; [API Docs][warn-jsr]
+[GitHub][warn-gh] &middot; [API Docs][warn-jsr] -->
 
 <!--
 # Roadmap
@@ -112,11 +96,13 @@ These are the modules expected to be released. These are based off preliminary r
 ---
 
 <div align="center">
+<a href="https://github.com/i11n" title="GitHub: integereleven">
 <img
-  alt="@kz logo"
-  height="48"
-  src="https://raw.githubusercontent.com/i11n/.github/main/svg/brand/color/open-stroke.svg"
+  alt="integereleven open source logo"
+  title="integereleven open source"
+  src="https://docs.i11n.io/assets/img/logos/png/64/brand/os/logo.v1.png"
 />
+</a>
 </div>
 
 <!---- Markdown Links -->
